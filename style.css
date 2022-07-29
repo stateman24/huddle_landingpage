@@ -90,6 +90,11 @@ p{
     margin: 20px 25px 20px 25px;  
 }
 
+
+#footer>img:hover{
+    background-color: var(--Soft-Magenta);
+}
+
 #footer>img{
     border: solid 1px white;
     border-radius: 25%;
@@ -115,7 +120,7 @@ p{
 }
 
 #button{
-    margin: 16px 50px 0 50px;
+    margin: 16px 75px 0 100px;
 }
 
 button:active{
